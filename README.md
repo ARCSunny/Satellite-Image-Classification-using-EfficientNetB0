@@ -1,4 +1,4 @@
-# Satellite Image Detection using EfficientNetB0
+# Satellite Image Classification using EfficientNetB0
 
 A deep learning project for **satellite image classification** using **TensorFlow/Keras** and a pretrained **EfficientNetB0** model.
 
